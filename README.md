@@ -5,5 +5,5 @@ This repository contains supplementary data for Do et al. (2015)
 Virus A and B from Vietnamese Children Identifies Distinct Patterns of
 Inter- and Intra-Host Evolution'.
 
-- variation-per-sample.csv: lists intra-sample variations (reviewer requested)
+- [List of intra-sample variations](variation-per-sample.csv)
 
